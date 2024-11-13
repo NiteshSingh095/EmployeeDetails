@@ -56,4 +56,11 @@ Tapping on an employee's name will take you to a detail screen that displays add
 You can pull down to refresh the employee list, which will reload the data from the API.
 Troubleshooting
 If you encounter issues, ensure that your Flutter SDK is correctly installed and that your device/emulator is running properly.
+
+## Screenshots : 
+![Screenshot 2024-11-14 034220](https://github.com/user-attachments/assets/0e06a039-f7f0-4c0d-a95b-ecde15f4aeed)
+![WhatsApp Image 2024-11-14 at 3 48 26 AM](https://github.com/user-attachments/assets/cdcf94f5-641f-4c20-bb12-4871ead3f0ec)
+![Screenshot 2024-11-14 034231](https://github.com/user-attachments/assets/98fedeee-b389-440b-afdc-6aefb389cda5)
+
+
 You can run flutter doctor to check the setup and resolve any issues.
